@@ -1,6 +1,7 @@
 # Yuri Gelsleichter
-(http://www.yurigelsleichter.ml/)
-## Welcome to GitHub Pages
+Veja o [Curso de R](http://www.gelsleichter.ml/)
+
+## Bem vindo a minha página do GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Gelsleichter/page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
