@@ -4,7 +4,11 @@
 
 You can use the [editor on GitHub](https://github.com/Gelsleichter/page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Dicas de Markdown
+## Markdown
+
+### [Tabelas e muito mais sobre de Markdown](https://guides.github.com/features/mastering-markdown/)
+
+### Exemplo simples de Markdown:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
