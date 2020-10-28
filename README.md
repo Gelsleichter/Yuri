@@ -1,4 +1,4 @@
-# Veja o [Curso de R](http://www.gelsleichter.ml/)
+# Veja o [Curso de R](https://sites.google.com/view/gelsleichter/)
 
 ## Bem vindo a minha página do GitHub Pages
 
